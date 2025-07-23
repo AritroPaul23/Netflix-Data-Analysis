@@ -379,3 +379,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 ### Stay Updated and Join the Community
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/aritropaul23/)
+
+Feel free to ⭐ star the repo if you find it helpful, and fork it to explore further!
+Let’s decode Netflix with SQL! 🚀
