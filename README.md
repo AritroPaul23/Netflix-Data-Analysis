@@ -385,7 +385,7 @@ Based on keywords like "kill" and "violence", 8,465 items were categorized as "G
 🇮🇳 𝐓𝐨𝐩 𝐈𝐧𝐝𝐢𝐚𝐧 𝐀𝐜𝐭𝐨𝐫𝐬 𝐢𝐧 𝐌𝐨𝐯𝐢𝐞𝐬:
 𝘼𝙣𝙪𝙥𝙖𝙢 𝙆𝙝𝙚𝙧 (40), 𝙎𝙝𝙖𝙝 𝙍𝙪𝙠𝙝 𝙆𝙝𝙖𝙣 (34), 𝙖𝙣𝙙 𝙉𝙖𝙨𝙚𝙚𝙧𝙪𝙙𝙙𝙞𝙣 𝙎𝙝𝙖𝙝 (31) top the list, highlighting their strong presence in 𝐈𝐧𝐝𝐢𝐚𝐧 𝐜𝐢𝐧𝐞𝐦𝐚.
 
-These trends offer a data-backed view into what’s driving hashtag#Netflix’s content strategy, audience preferences, and the evolving media landscape. 📈
+These trends offer a data-backed view into what’s driving Netflix’s content strategy, audience preferences, and the evolving media landscape. 📈
 
 What’s your take on building long-lasting, impactful content in today’s fast-paced streaming world? Share your thoughts! 👇
 
