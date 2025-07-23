@@ -363,22 +363,39 @@ GROUP BY Remarks;
 
 **Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 
-## Findings and Conclusion
+## 𝐔𝐧𝐯𝐞𝐢𝐥𝐢𝐧𝐠 𝐊𝐞𝐲 𝐓𝐫𝐞𝐧𝐝𝐬 𝐟𝐫𝐨𝐦 𝐍𝐞𝐭𝐟𝐥𝐢𝐱 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 🚀
 
-- **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
-- **Common Ratings:** Insights into the most common ratings provide an understanding of the content's target audience.
-- **Geographical Insights:** The top countries and the average content releases by India highlight regional content distribution.
-- **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
+A recent deep dive into Netflix’s content catalog reveals valuable insights for content strategists and entertainment professionals:
 
-This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+🌍 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐕𝐨𝐥𝐮𝐦𝐞 𝐛𝐲 𝐂𝐨𝐮𝐧𝐭𝐫𝐲:
+The U.S. leads with 𝟯,𝟲𝟵𝟬 titles, followed by India (𝟭,𝟬𝟰𝟲) and the UK (𝟴𝟬𝟲) — showcasing major production hubs and 𝐭𝐚𝐫𝐠𝐞𝐭 𝐦𝐚𝐫𝐤𝐞𝐭𝐬.
 
-## Author
+🎭 𝐓𝐨𝐩 𝐆𝐞𝐧𝐫𝐞𝐬:
+International Movies (𝟮,𝟳𝟱𝟮), Dramas (𝟮,𝟰𝟮𝟳), and Comedies (𝟭,𝟲𝟳𝟰) dominate, reflecting global appeal and 𝙘𝙤𝙣𝙨𝙞𝙨𝙩𝙚𝙣𝙩 𝙫𝙞𝙚𝙬𝙚𝙧 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩.
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+🔞 𝐃𝐨𝐦𝐢𝐧𝐚𝐧𝐜𝐞 𝐨𝐟 𝐌𝐚𝐭𝐮𝐫𝐞 𝐂𝐨𝐧𝐭𝐞𝐧𝐭:
+TV-MA is the most common rating — seen in 𝟮,𝟬𝟲𝟮 𝗺𝗼𝘃𝗶𝗲𝘀 and 𝟭,𝟭𝟰𝟱 𝗧𝗩 𝘀𝗵𝗼𝘄𝘀 — pointing to high demand for 𝙖𝙙𝙪𝙡𝙩-𝙛𝙤𝙘𝙪𝙨𝙚𝙙 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜. 🎬
+
+📺 𝐓𝐕 𝐒𝐡𝐨𝐰 𝐋𝐨𝐧𝐠𝐞𝐯𝐢𝐭𝐲:
+Only 𝟵𝟵 out of 𝟮,𝟲𝟳𝟲 𝗧𝗩 𝘀𝗵𝗼𝘄𝘀 have surpassed 𝟓 𝐬𝐞𝐚𝐬𝐨𝐧𝐬 — just 𝟯.𝟳%, underscoring the challenge of sustaining 𝙡𝙤𝙣𝙜-𝙩𝙚𝙧𝙢 𝙖𝙪𝙙𝙞𝙚𝙣𝙘𝙚 𝙚𝙣𝙜𝙖𝙜𝙚𝙢𝙚𝙣𝙩. 🎯
+
+🧠 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐓𝐨𝐧𝐞 𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧:
+Based on keywords like "kill" and "violence", 8,465 items were categorized as "Good" and 342 as "Bad", offering a measurable lens on content tone.
+
+🇮🇳 𝐓𝐨𝐩 𝐈𝐧𝐝𝐢𝐚𝐧 𝐀𝐜𝐭𝐨𝐫𝐬 𝐢𝐧 𝐌𝐨𝐯𝐢𝐞𝐬:
+𝘼𝙣𝙪𝙥𝙖𝙢 𝙆𝙝𝙚𝙧 (40), 𝙎𝙝𝙖𝙝 𝙍𝙪𝙠𝙝 𝙆𝙝𝙖𝙣 (34), 𝙖𝙣𝙙 𝙉𝙖𝙨𝙚𝙚𝙧𝙪𝙙𝙙𝙞𝙣 𝙎𝙝𝙖𝙝 (31) top the list, highlighting their strong presence in 𝐈𝐧𝐝𝐢𝐚𝐧 𝐜𝐢𝐧𝐞𝐦𝐚.
+
+These trends offer a data-backed view into what’s driving hashtag#Netflix’s content strategy, audience preferences, and the evolving media landscape. 📈
+
+What’s your take on building long-lasting, impactful content in today’s fast-paced streaming world? Share your thoughts! 👇
 
 ### Stay Updated and Join the Community
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/aritropaul23/)
+
+## Author
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 Feel free to ⭐ star the repo if you find it helpful, and fork it to explore further!
 Let’s decode Netflix with SQL! 🚀
